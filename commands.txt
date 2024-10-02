@@ -9,5 +9,6 @@ touch profile.txt
 nano profile.txt
 git add .
 git commit -m "Initial commit to add profile.txt"
+git remote add origin git@github.com:Mitantsoa0607/HEI_Mitantsoa.git
 git push origin main
 
