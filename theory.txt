@@ -1,0 +1,6 @@
+3/
+a- La commande git pull permet de recueillir les mises à jours du dépot distant dans le dépot local
+b- La commande git clone permet de cloner le dépot distant vers le dépot local
+c- La commande git fork permet de copier un dépot existant qui partage le code et les paramètres de visibilité avec le référentiel « en amont » d'origine.
+d- Un pull request est une demande à l'auteur original de merger nos modifications 
+

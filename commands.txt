@@ -17,3 +17,10 @@ nano profile.txt
 git add profile.txt
 git commit -m "ajout de concours L2 dans profile.txt"
 git push origin main
+touch theory.txt
+nano theory.txt
+nano commands.txt
+nano README.md
+git add .
+git commit -m "ajout du fichier theory.txt et modification du README"
+git push origin main
