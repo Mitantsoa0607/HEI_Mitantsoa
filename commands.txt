@@ -1,0 +1,13 @@
+mkdir HEI_concours
+cd HEI_concours
+git init .
+git config --global user.name "Mitantsoa0607"
+git config --global user.email "rajaonahmitsoa@gmail.com"
+git clone git@github.com:Mitantsoa0607/HEI_Mitantsoa.git
+cd HEI_Mitantsoa
+touch profile.txt
+nano profile.txt
+git add .
+git commit -m "Initial commit to add profile.txt"
+git push origin main
+
